@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jd/Área de Trabalho/New Folder/Calculator.csproj",
+      "projectUniqueName": "/home/jd/Área de Trabalho/clone/Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "/home/jd/Área de Trabalho/New Folder/Calculator.csproj",
+      "projectPath": "/home/jd/Área de Trabalho/clone/Calculator.csproj",
       "packagesPath": "/home/jd/.nuget/packages/",
-      "outputPath": "/home/jd/Área de Trabalho/New Folder/obj/",
+      "outputPath": "/home/jd/Área de Trabalho/clone/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jd/.nuget/NuGet/NuGet.Config"
