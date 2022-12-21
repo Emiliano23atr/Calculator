@@ -13,3 +13,18 @@
 /home/jd/Área de Trabalho/Calculator/obj/Debug/net7.0/Calculator.pdb
 /home/jd/Área de Trabalho/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
 /home/jd/Área de Trabalho/Calculator/obj/Debug/net7.0/ref/Calculator.dll
+/home/jd/Área de Trabalho/New Folder/bin/Debug/net7.0/Calculator
+/home/jd/Área de Trabalho/New Folder/bin/Debug/net7.0/Calculator.deps.json
+/home/jd/Área de Trabalho/New Folder/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/home/jd/Área de Trabalho/New Folder/bin/Debug/net7.0/Calculator.dll
+/home/jd/Área de Trabalho/New Folder/bin/Debug/net7.0/Calculator.pdb
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/Calculator.dll
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/refint/Calculator.dll
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/Calculator.pdb
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/home/jd/Área de Trabalho/New Folder/obj/Debug/net7.0/ref/Calculator.dll

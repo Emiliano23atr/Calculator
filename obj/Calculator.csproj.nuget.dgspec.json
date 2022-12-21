@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jd/Área de Trabalho/Calculator/Calculator.csproj": {}
+    "/home/jd/Área de Trabalho/New Folder/Calculator.csproj": {}
   },
   "projects": {
-    "/home/jd/Área de Trabalho/Calculator/Calculator.csproj": {
+    "/home/jd/Área de Trabalho/New Folder/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jd/Área de Trabalho/Calculator/Calculator.csproj",
+        "projectUniqueName": "/home/jd/Área de Trabalho/New Folder/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/home/jd/Área de Trabalho/Calculator/Calculator.csproj",
+        "projectPath": "/home/jd/Área de Trabalho/New Folder/Calculator.csproj",
         "packagesPath": "/home/jd/.nuget/packages/",
-        "outputPath": "/home/jd/Área de Trabalho/Calculator/obj/",
+        "outputPath": "/home/jd/Área de Trabalho/New Folder/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jd/.nuget/NuGet/NuGet.Config"
